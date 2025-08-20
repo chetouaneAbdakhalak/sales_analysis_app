@@ -29,10 +29,10 @@ It supports **CSV, Excel, and Parquet** files, cleans the data, calculates summa
 ## 🖼️ Screenshots
 
 ### Welcome Page  
-![Welcome](screenshots/welcome.png)
+![Welcome](welcome.png)
 
 ### Success Message  
-![Success](screenshots/success.png)
+![Success](success.png)
 
 ### Example Chart (Bar)  
 ![Chart1](sales_chart1.png)
